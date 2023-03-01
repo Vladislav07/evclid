@@ -127,7 +127,7 @@
     padding: 161px 77px;
     padding-right: 100px;
     padding-bottom: 160px;
-    background-image: url("../img/hero_1024.webp");
+    /* background-image: url("../img/hero_1024.webp"); */
   }
 
   .hero__descr {
@@ -770,7 +770,7 @@
     margin-bottom: 14px;
   }
 
-  .tabs-item--one {
+  .--one {
     background-image: url("../img/how_320.webp");
   }
 
